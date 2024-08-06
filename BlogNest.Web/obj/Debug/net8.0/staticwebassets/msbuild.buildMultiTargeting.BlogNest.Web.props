@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlogNest.Web.props" />
+</Project>
